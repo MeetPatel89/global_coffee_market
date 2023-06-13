@@ -12,5 +12,6 @@
 
 - Python
 - Pandas
+- Numpy
 - Matplotlib
 - Seaborn
